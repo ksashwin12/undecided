@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=2000&pause=1000&color=4011F7&random=false&width=435&lines=Undecided;Rust+Upcoming)](https://git.io/typing-svg)
